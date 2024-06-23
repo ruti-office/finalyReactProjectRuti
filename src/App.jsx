@@ -21,6 +21,7 @@ const App = observer(() => {
 
   return (
     <>
+    my name is: Ruti
       <Header />
 
       <div style={{marginTop: '8%'}}>
