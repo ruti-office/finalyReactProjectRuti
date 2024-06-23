@@ -31,4 +31,3 @@ const App = observer(() => {
   )
 })
 
-export default App
